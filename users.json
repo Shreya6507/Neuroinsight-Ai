@@ -1,0 +1,18 @@
+{
+  "abc@email.com": {
+    "email": "abc@email.com",
+    "password": "abc123",
+    "full_name": "abc",
+    "age": "25",
+    "specialty": "radiology",
+    "notes": ""
+  },
+  "abc@gmal.com": {
+    "email": "abc@gmal.com",
+    "password": "abc123",
+    "full_name": "nhvjh",
+    "age": "46",
+    "specialty": "",
+    "notes": ""
+  }
+}
